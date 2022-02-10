@@ -1,0 +1,12 @@
+h1 { color:red; } 
+body {background-color:yellow;}
+body{ text-align:left}
+div#pageWrapper {
+  width: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
